@@ -28,7 +28,6 @@ I'm a Blue Team security enthusiast focused on **Digital Forensics & Incident Re
 
 I enjoy investigating real-world attack scenarios, building home lab environments, and documenting practical security investigations while continuously expanding my understanding of modern detection and response.
 
-> **Facts over assumptions. Evidence over guesses.**
 
 ---
 
@@ -42,16 +41,6 @@ I enjoy investigating real-world attack scenarios, building home lab environment
 
 ---
 
-## 🛠️ Areas of Focus
-
-| Domain | Skills |
-|---|---|
-| **DFIR** | Memory forensics, disk imaging, timeline reconstruction, artifact analysis |
-| **Detection Engineering** | Log correlation, IOC/IOA development, detection tuning |
-| **Threat Hunting** | Hypothesis-driven hunting, ATT&CK mapping, anomaly detection |
-| **SecOps** | Alert triage, incident response workflows, chain of custody |
-
----
 
 ## 🧰 Tools & Tech
 
