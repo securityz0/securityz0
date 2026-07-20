@@ -1,41 +1,74 @@
 <div align="center">
 
-# securityz0
+# `whoami`
+### Alisson 👋
 
-blue team :: dfir · detection engineering · threat hunting
+**Blue Team | DFIR | Detection Engineering | Threat Hunting**
+
+![Profile Views](https://komarev.com/ghpvc/?username=securityz0&color=blue&style=flat-square)
+![Focus](https://img.shields.io/badge/focus-DFIR%20%26%20Detection%20Engineering-0d6efd?style=flat-square)
+![Status](https://img.shields.io/badge/status-investigating-black?style=flat-square)
 
 </div>
+
+---
 
 ```text
 analyst@debian:~$ whoami
-> alisson — investigating what actually happened, not what looks likely
-> facts over assumptions. evidence over guesses.
+
+> loading profile...
+> parsing background...
+> compiling skillset...
+> done.
 ```
 
+## About Me
+
+I'm a Blue Team security enthusiast focused on **Digital Forensics & Incident Response (DFIR)**, **Detection Engineering**, **Threat Hunting**, and **Security Operations**.
+
+I enjoy investigating real-world attack scenarios, building home lab environments, and documenting practical security investigations while continuously expanding my understanding of modern detection and response.
+
+> **Facts over assumptions. Evidence over guesses.**
+
+---
+
+## 🔍 What I Do
+
+-  Investigate simulated and real-world attack scenarios end-to-end
+-  Build and maintain home lab environments for hands-on practice
+-  Document findings, timelines, and root cause analysis
+-  Develop and tune detections based on adversary behavior
+-  Continuously study modern attacker TTPs and defensive tooling
+
+---
+
+## 🛠️ Areas of Focus
+
+| Domain | Skills |
+|---|---|
+| **DFIR** | Memory forensics, disk imaging, timeline reconstruction, artifact analysis |
+| **Detection Engineering** | Log correlation, IOC/IOA development, detection tuning |
+| **Threat Hunting** | Hypothesis-driven hunting, ATT&CK mapping, anomaly detection |
+| **SecOps** | Alert triage, incident response workflows, chain of custody |
+
+---
+
+## 🧰 Tools & Tech
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-2b2b2b?style=flat-square)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square)
+
+---
+
+
 <div align="center">
+
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-port0/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-05070d?style=flat-square&logo=github&logoColor=white)](https://securityz0.github.io)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=securityz0&show_icons=true&theme=dark&hide_border=true&title_color=7cb2ff&icon_color=7cb2ff&text_color=8a97ad&bg_color=0b0f1a" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=securityz0&theme=dark&hide_border=true&background=0b0f1a&ring=7cb2ff&fire=7cb2ff&currStreakLabel=7cb2ff" height="165"/>
-</div>
-
-<div align="center">
-
-`wireshark` `splunk` `volatility` `sysmon` `linux` `mitre att&ck`
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=securityz0&color=7cb2ff&style=flat-square&label=views)
 
 </div>
