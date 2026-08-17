@@ -28,7 +28,6 @@ I'm a Blue Team security enthusiast focused on **Digital Forensics & Incident Re
 
 I enjoy investigating real-world attack scenarios, building home lab environments, and documenting practical security investigations while continuously expanding my understanding of modern detection and response.
 
-
 ---
 
 ## 🔍 What I Do
@@ -41,18 +40,32 @@ I enjoy investigating real-world attack scenarios, building home lab environment
 
 ---
 
-
 ## 🧰 Tools & Tech
 
+**DFIR**
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-2b2b2b?style=flat-square)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![KAPE](https://img.shields.io/badge/KAPE-2b2b2b?style=flat-square)
+![Autopsy](https://img.shields.io/badge/Autopsy-2b2b2b?style=flat-square)
+![Redline](https://img.shields.io/badge/Redline-2b2b2b?style=flat-square)
+![Eric Zimmerman Tools](https://img.shields.io/badge/EZ%20Tools-2b2b2b?style=flat-square)
+
+**SIEM & Frameworks**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Scripting & Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
-
 
 <div align="center">
 
