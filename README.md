@@ -3,7 +3,7 @@
 # `whoami`
 ### Alisson 👋
 
-**Blue Team | DFIR | Detection Engineering | Threat Hunting**
+**Blue Team | DFIR | Detection Engineering**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=securityz0&color=blue&style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-DFIR%20%26%20Detection%20Engineering-0d6efd?style=flat-square)
