@@ -14,7 +14,7 @@
 ---
 
 ```text
-analyst@debian:~$ whoami
+analyst@fedora:~$ whoami
 
 > loading profile...
 > parsing background...
